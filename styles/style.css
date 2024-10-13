@@ -74,12 +74,7 @@
     flex-direction: row;
     justify-content: center;
 }
-.carousel-item
-{
-    display: flex;
-    justify-content: center;
-    height: 700px; 
-}
+
 #carouselExampleDark {
     margin: auto; 
     width: 45%; 
